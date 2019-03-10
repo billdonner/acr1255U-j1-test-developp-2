@@ -30,3 +30,4 @@ there 16 warnings about deprecations etc, and an offer to upgrade to swift 4.2
 - crashed at         if  (bluetoothReader?.isKind(of: ABTAcr1255uj1Reader.self))!{  when modifying TxPower in btdemo
 
 stashed in github
+moving to laptop
